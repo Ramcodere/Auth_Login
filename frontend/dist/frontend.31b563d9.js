@@ -18307,7 +18307,7 @@ _c4 = SearchContainer;
 const SearchInput = (0, _styledComponentsDefault.default).input`
   flex: 1;
   padding: 0.8rem 1rem;
-  padding-right: ${({ hasValue })=>hasValue ? '2.5rem' : '1rem'};
+  padding-right: ${({ 'data-has-value': hasValue })=>hasValue ? '2.5rem' : '1rem'};
   border: 1px solid #ddd;
   border-top-left-radius: ${(0, _globalStyles.theme).borderRadius.small};
   border-bottom-left-radius: ${(0, _globalStyles.theme).borderRadius.small};
@@ -18607,7 +18607,7 @@ const Home = ()=>{
                                     name: "search",
                                     placeholder: "Search for posts...",
                                     defaultValue: currentSearch,
-                                    hasValue: currentSearch
+                                    "data-has-value": !!currentSearch
                                 }, void 0, false, {
                                     fileName: "src/pages/Home.js",
                                     lineNumber: 355,

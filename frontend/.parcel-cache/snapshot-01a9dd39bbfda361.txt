@@ -1,7 +1,7 @@
 5868
 129C:\Users\COMPUTER WORLD\OneDrive\Desktop\Auth_Login\frontend\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.c133872340086343478 0
 101C:\Users\COMPUTER WORLD\OneDrive\Desktop\Auth_Login\frontend\node_modules\react-icons\cg\package.json133872339527000920 0
-65C:\Users\COMPUTER WORLD\OneDrive\Desktop\Auth_Login\frontend\dist133872721407461200 1
+65C:\Users\COMPUTER WORLD\OneDrive\Desktop\Auth_Login\frontend\dist133872923252295070 1
 84C:\Users\COMPUTER WORLD\OneDrive\Desktop\Auth_Login\frontend\node_modules\mime-types133872343222757363 1
 64C:\Users\COMPUTER WORLD\OneDrive\Desktop\Auth_Login\frontend\src133872340987920108 1
 117C:\Users\COMPUTER WORLD\OneDrive\Desktop\Auth_Login\frontend\node_modules\caniuse-lite\data\features\web-animation.js133872340159582600 0
@@ -153,7 +153,7 @@
 106C:\Users\COMPUTER WORLD\OneDrive\Desktop\Auth_Login\frontend\node_modules\cosmiconfig\dist\ExplorerSync.js133872339998408656 0
 105C:\Users\COMPUTER WORLD\OneDrive\Desktop\Auth_Login\frontend\node_modules\caniuse-lite\data\regions\TO.js133872340156511199 0
 117C:\Users\COMPUTER WORLD\OneDrive\Desktop\Auth_Login\frontend\node_modules\type-fest\source\union-to-intersection.d.ts133872340065922684 0
-78C:\Users\COMPUTER WORLD\OneDrive\Desktop\Auth_Login\frontend\src\pages\Home.js133872370623081627 0
+78C:\Users\COMPUTER WORLD\OneDrive\Desktop\Auth_Login\frontend\src\pages\Home.js133872923262932438 0
 83C:\Users\COMPUTER WORLD\OneDrive\Desktop\Auth_Login\frontend\node_modules\@swc\core133872343240126018 1
 105C:\Users\COMPUTER WORLD\OneDrive\Desktop\Auth_Login\frontend\node_modules\@parcel\reporter-dev-server\src133872343283750944 1
 104C:\Users\COMPUTER WORLD\OneDrive\Desktop\Auth_Login\frontend\node_modules\react-icons\lib\iconContext.js133872339461474682 0
@@ -2480,7 +2480,7 @@
 145C:\Users\COMPUTER WORLD\OneDrive\Desktop\Auth_Login\frontend\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\index.js133872340038354123 0
 120C:\Users\COMPUTER WORLD\OneDrive\Desktop\Auth_Login\frontend\node_modules\caniuse-lite\data\features\css-font-palette.js133872340108673453 0
 94C:\Users\COMPUTER WORLD\OneDrive\Desktop\Auth_Login\frontend\node_modules\browserslist\LICENSE133872339976724782 0
-86C:\Users\COMPUTER WORLD\OneDrive\Desktop\Auth_Login\frontend\dist\frontend.31b563d9.js133872721407201950 0
+86C:\Users\COMPUTER WORLD\OneDrive\Desktop\Auth_Login\frontend\dist\frontend.31b563d9.js133872923251528282 0
 117C:\Users\COMPUTER WORLD\OneDrive\Desktop\Auth_Login\frontend\node_modules\@parcel\core\test\fixtures\config\.parcelrc133872340053537428 0
 104C:\Users\COMPUTER WORLD\OneDrive\Desktop\Auth_Login\frontend\node_modules\postcss-value-parser\README.md133872339469335432 0
 109C:\Users\COMPUTER WORLD\OneDrive\Desktop\Auth_Login\frontend\node_modules\postcss-value-parser\lib\index.d.ts133872339470983927 0
@@ -4512,7 +4512,7 @@
 109C:\Users\COMPUTER WORLD\OneDrive\Desktop\Auth_Login\frontend\node_modules\axios\lib\helpers\composeSignals.js133872339488792402 0
 102C:\Users\COMPUTER WORLD\OneDrive\Desktop\Auth_Login\frontend\node_modules\axios\lib\helpers\cookies.js133872339488955887 0
 109C:\Users\COMPUTER WORLD\OneDrive\Desktop\Auth_Login\frontend\node_modules\axios\lib\helpers\formDataToJSON.js133872339490796991 0
-90C:\Users\COMPUTER WORLD\OneDrive\Desktop\Auth_Login\frontend\dist\frontend.31b563d9.js.map133872721407451013 0
+90C:\Users\COMPUTER WORLD\OneDrive\Desktop\Auth_Login\frontend\dist\frontend.31b563d9.js.map133872923252253210 0
 112C:\Users\COMPUTER WORLD\OneDrive\Desktop\Auth_Login\frontend\node_modules\@swc\helpers\esm\_apply_decs_2203_r.js133872340096922160 0
 109C:\Users\COMPUTER WORLD\OneDrive\Desktop\Auth_Login\frontend\node_modules\axios\lib\helpers\HttpStatusCode.js133872339491584273 0
 113C:\Users\COMPUTER WORLD\OneDrive\Desktop\Auth_Login\frontend\node_modules\@swc\helpers\node_modules\tslib\modules133872343348208189 1
