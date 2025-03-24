@@ -1,0 +1,27 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel --port 3001",
+    "build": "parcel build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-icons": "^5.5.0",
+    "react-router": "^6.3.0",
+    "react-router-dom": "^6.3.0",
+    "styled-components": "^6.1.16"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "parcel": "^2.14.1"
+  }
+}
